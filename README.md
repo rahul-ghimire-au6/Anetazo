@@ -1,2 +1,2 @@
 # Anetazo
- master
+Anetazo v1.2
